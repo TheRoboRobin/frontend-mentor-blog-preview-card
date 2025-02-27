@@ -117,7 +117,8 @@ body {
   }
 
   .blog-post-card {
-    margin: 10vh auto;
+    margin: 10rem auto;
+    width: 36rem;
   }
 
   .heading-primary {
