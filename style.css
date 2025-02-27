@@ -27,7 +27,7 @@ body {
 }
 
 .blog-post-card {
-  width: 300px;
+  width: 30rem;
   margin: 20vh auto;
   padding: 1.6rem 1.6rem 2.4rem 1.6rem;
   background-color: var(--color-white);
@@ -112,6 +112,14 @@ body {
 }
 
 @media only screen and (min-width: 75em) {
+  html {
+    font-size: 68.75%;
+  }
+
+  .blog-post-card {
+    margin: 10vh auto;
+  }
+
   .heading-primary {
     font-size: 1.8rem;
   }
