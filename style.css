@@ -122,14 +122,18 @@ body {
   }
 
   .heading-primary {
-    font-size: 1.8rem;
+    font-size: 2.1rem;
   }
 
   .blog-post-card__desc {
-    font-size: 1.2rem;
+    font-size: 1.6rem;
   }
 
   .blog-post-card__img {
     height: 100%;
+  }
+
+  .blog-post-card__author-name {
+    font-size: 1.4rem;
   }
 }
