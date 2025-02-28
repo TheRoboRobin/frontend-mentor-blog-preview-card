@@ -24,6 +24,7 @@ body {
 
 .container {
   background-color: var(--color-primary);
+  height: 80vh;
 }
 
 .blog-post-card {
@@ -117,7 +118,6 @@ body {
   }
 
   .blog-post-card {
-    margin: 10rem auto;
     width: 36rem;
   }
 
